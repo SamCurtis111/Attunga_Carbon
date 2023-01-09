@@ -7,4 +7,4 @@ dependencies:
   - sqlalchemy
   - psycopg2
   - plotly
-  - voila
+  - voila>=0.2.11
