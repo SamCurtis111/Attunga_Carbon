@@ -9,3 +9,4 @@ dependencies:
   - plotly
   - voila>=0.2.11
   - ipywidgets==7.7.2
+  - jupyterlab_widgets
