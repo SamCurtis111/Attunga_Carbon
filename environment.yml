@@ -8,4 +8,4 @@ dependencies:
   - psycopg2
   - plotly
   - voila>=0.2.11
-  - ipywidgets
+  - ipywidgets>=8.0.4
