@@ -8,5 +8,6 @@ dependencies:
   - psycopg2
   - plotly
   - voila>=0.2.11
-  - ipywidgets==7.7.2
-  - jupyterlab_widgets
+  - ipywidgets~=7.6
+  - jupyterlab==3.1.13
+  - matplotlib
