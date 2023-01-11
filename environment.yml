@@ -7,7 +7,10 @@ dependencies:
   - sqlalchemy
   - psycopg2
   - plotly
-  - voila>=0.2.11
-  - ipywidgets~=7.6
-  - jupyterlab==3.1.13
+  - voila
+  - ipywidgets
+  - jupyterlab
   - matplotlib-base
+  - requests
+  - jupyter_contrib_nbextensions
+  - nbgitpuller
